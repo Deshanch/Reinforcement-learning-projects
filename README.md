@@ -33,6 +33,7 @@ These are not huge projects but I did these projects, to get the idea on multi a
 * Pytorch
 * openAi Gym
 * numpy, pillow
+* Google colab for training 
 
 ## Advisors
 
